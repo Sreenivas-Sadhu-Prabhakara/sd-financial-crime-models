@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-financial-crime-models
+description: "BIAN Service Domain: Financial Crime Models (Develop pattern, Risk and Compliance)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - develop
+annotations:
+  bian/business-area: "Risk and Compliance"
+  bian/business-domain: "Financial Crime"
+  bian/asset-type: "Financial Crime Model"
+  bian/control-record: "Financial Crime Model Development Project"
